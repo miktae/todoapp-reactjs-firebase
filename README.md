@@ -21,7 +21,12 @@
     <li>
           <a href="#built-with">Built With</a>
     </li>
-   
+   <li>
+          <a href="#website">Website</a>
+    </li>
+    <li>
+          <a href="#author">Author</a>
+    </li>
   </ol>
 </details>
 
@@ -43,11 +48,11 @@ Reactjs and Firebase were used to create todoapp.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Website
+### Website
 
 * Website: https://miktae.github.io/todoapp-reactjs-firebase/
 
-## Author
+### Author
 
 👤 **miktae**
 
