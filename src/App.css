@@ -66,6 +66,11 @@ input[type="text"]{
 .edit-modal .btn:hover{
  cursor: pointer;
 }
+@media only screen and (max-width: 400px) {
+  .heading_title{
+      font-size: 25px;
+  }
+}
 @media only screen and (min-width: 900px) {
   .content{
       background: rgb(80, 184, 233);
