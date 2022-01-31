@@ -39,7 +39,7 @@ Reactjs and Firebase were used to create todoapp.
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* [Firebase](https://https://firebase.google.com/)
+* [Firebase](https://firebase.google.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
