@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.content{
+  background: rgb(90, 196, 245);
+  min-height: 70vh;
+  width: 90%;
+  margin: 2% 7% 2% 5%;
+  padding: 3px;
+  border-radius: 7px;
+  color: rgb(83, 4, 158);
+}
+.heading{
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+}
+.heading_img {
+  width: 100px;
+}
+.heading_title {
+  font-size: 28px;
+}
+.form{
+  display: flex;
+  justify-content: center;
+}
+input[type="text"]{
+  padding: 7px;
+  width: 40%;
+  font-weight: 540;
+  font-size: 1em;
+}
+.add-btn:hover, .func-btn:hover{
+  cursor: pointer;
+}
+.items{
+  margin-top: 19px;
+}
+.item{
+  margin: 10px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 540;
+  font-size: 18px;
+  color: #000;
+}
+.btn{
+  margin: 9px -10px auto 2px;
+}
+.func-btn{
+  font-weight: 540;
+  font-size: 1rem;
+  color: #000;
+}
+/* Edit */
+.edit-modal{
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.edit-modal input[type="text"]{
+  padding: 3px;
+}
+.edit-modal .btn{
+  padding: 7px;
+  margin-left: 3px;
+  margin-right: 3.5px;
+}
+.edit-modal .btn:hover{
+ cursor: pointer;
+}
+@media only screen and (min-width: 900px) {
+  .content{
+      background: rgb(80, 184, 233);
+      min-height: 70vh;
+      width: 50%;
+      margin: 2% 25% auto 25%;
+  }
+}
