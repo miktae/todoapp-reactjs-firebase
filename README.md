@@ -1,5 +1,7 @@
 <div id="top"></div>
-
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -27,11 +29,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -51,4 +48,25 @@
 * [React.js](https://reactjs.org/)
 * [Firebase](https://https://firebase.google.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Website
+
+* Website: https://miktae.github.io/todoapp-reactjs-firebase/
+
+## Author
+
+👤 **miktae**
+
+* Website: https://github.com/miktae
+* Github: [@miktae](https://github.com/miktae)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [miktae](https://github.com/miktae).<br />
+This project is [Mozilla Public License 2.0](https://github.com/miktae/todoapp-reactjs-firebase/blob/main/LICENSE) licensed.
 
